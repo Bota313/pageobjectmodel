@@ -3,12 +3,12 @@ agent any
     stages{
 	    stage('Build'){
 		    steps{
-			echo "Building"
-		}
-	}
+			   echo "Building"
+		    }
+	    }
 	
 	stage('Test'){
-		step{
+		steps{
 			catchError(buildResult: 'SUCCESS', stageResult: 'FAILURE'){
 				sh "mvn clean install"
 			}
