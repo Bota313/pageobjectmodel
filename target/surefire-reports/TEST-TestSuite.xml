@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="38.053" tests="14" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_261\jre\bin"/>
+    <property name="java.vm.version" value="25.261-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\muzef\IdeaProjects\PageObjectModelAutomationFramework"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\muzef\IdeaProjects\PageObjectModelAutomationFramework"/>
+    <property name="java.runtime.version" value="1.8.0_261-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_261\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\muzef\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\apache-maven-3.6.3\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_261\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Java\jdk1.8.0_261/bin;C:\Program Files\Java\jdk1.8.0_261/bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\muzef\Downloads\ChromeDriver\;C:\selenium-ide;C:\Program Files\Java\jdk-14.0.1\bin;C:\apache-maven-3.6.3\bin;C:\Program Files\Java\jdk1.8.0_261\bin;C:\webdriver;C:\Users\muzef\Downloads\allure-commandline-2.13.6\allure-2.13.6\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\muzef\AppData\Local\Microsoft\WindowsApps;C:\Users\muzef\AppData\Roaming\npm;C:\Users\muzef\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="maven.conf" value="C:\apache-maven-3.6.3\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\apache-maven-3.6.3\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\muzef"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="muzef"/>
+    <property name="java.class.path" value="C:\apache-maven-3.6.3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_261\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_261"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\apache-maven-3.6.3\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="validatePageTitleTest" classname="com.nopcommerce.tests.HomePageTest" time="0.984"/>
+  <testcase name="verifyLogoTest" classname="com.nopcommerce.tests.HomePageTest" time="0.192"/>
+  <testcase name="verifyRegisterLinkTest" classname="com.nopcommerce.tests.HomePageTest" time="0.15"/>
+  <testcase name="verifyLoginLinkTest" classname="com.nopcommerce.tests.HomePageTest" time="0.121"/>
+  <testcase name="verifyRegisterPageNameTest" classname="com.nopcommerce.tests.RegisterPageTest" time="4.067"/>
+  <testcase name="verifyManufacturesList" classname="com.nopcommerce.tests.SearchPageTest" time="0.148"/>
+  <testcase name="verifySearchPageName" classname="com.nopcommerce.tests.SearchPageTest" time="0.055"/>
+  <testcase name="verifyLoginPageNameTest" classname="com.nopcommerce.tests.LoginPageTest" time="0.365"/>
+  <testcase name="verifyLoginButtonStatusTest" classname="com.nopcommerce.tests.LoginPageTest" time="0.037"/>
+  <testcase name="verifyRegisterButtonStatusTest" classname="com.nopcommerce.tests.LoginPageTest" time="0.032"/>
+  <testcase name="validateUserLoginTest" classname="com.nopcommerce.tests.LoginPageTest" time="1.173"/>
+  <testcase name="verifyManufacturerDropDownListTest" classname="com.nopcommerce.tests.SearchPageTest" time="0.773"/>
+  <testcase name="logoutTest" classname="com.nopcommerce.tests.LoginPageTest" time="2.758"/>
+  <testcase name="registerNewUserTest" classname="com.nopcommerce.tests.RegisterPageTest" time="12.878"/>
+</testsuite>
